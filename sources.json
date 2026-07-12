@@ -6,7 +6,7 @@
       "version": "1.0.0",
       "labels": ["METADATA", "PREVIEW", "30s"],
       "description": "Search Apple's music catalog and play official 30-second previews via the public iTunes Search API. No login required.",
-      "scriptUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/itunes-search.js"
+      "scriptUrl": "https://raw.githubusercontent.com/Sharpzify/8spine-itunes/refs/heads/main/itunes-search.js"
     }
   ],
   "community": []
