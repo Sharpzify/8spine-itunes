@@ -7,7 +7,7 @@
       "version": "1.0.0",
       "labels": ["ARTWORK", "ANIMATED"],
       "description": "Fetches animated album and artist artwork by scraping the Apple Music web client.",
-      "download": "REPLACE_WITH_YOUR_HOSTED_RAW_JS_URL/apple-music-animated.js"
+      "download": "https://raw.githubusercontent.com/Sharpzify/8spine-apple-fixed/refs/heads/main/apple-music-animated.js"
     }
   ]
 }
