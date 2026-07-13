@@ -1,12 +1,12 @@
 {
   "official": [
     {
-      "id": "itunes-search",
-      "name": "iTunes Search (Previews)",
+      "id": "Apple View",
+      "name": "Apple View (Previews)",
       "version": "1.0.0",
       "labels": ["METADATA", "PREVIEW", "30s"],
-      "description": "Search Apple's music catalog and play official 30-second previews via the public iTunes Search API. No login required.",
-      "scriptUrl": "https://raw.githubusercontent.com/Sharpzify/8spine-apple-fixed/refs/heads/main/itunes-search.js"
+      "description": "Search Apple's music catalog and play official 30-second previews via the public Apple blah blah blah i need to change this lol Search API. No login required.",
+      "scriptUrl": "https://raw.githubusercontent.com/Sharpzify/8spine-apple-fixed/refs/heads/main/apple-music-animated.js"
     }
   ],
   "community": [
